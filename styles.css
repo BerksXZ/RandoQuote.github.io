@@ -50,7 +50,7 @@ body{
 }
 
 
-.tag > span {
+.tag > li {
     color: var(--color-alternate);
     border: 0.1rem solid var(--color-alternate);
     border-radius: 12rem;
