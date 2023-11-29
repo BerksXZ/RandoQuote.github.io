@@ -76,9 +76,9 @@ ul{
 
 .btn-containers{
     margin-top: 20px;
-    width: 130px;
-    height: 60px;
-    border: 1px solid var(--color-text-quote);
+    width: 120px;
+    height: 55px;
+    border: 1px solid var(--background-colo-secondary);
     border-radius: 1rem;
     display: flex;
 }
@@ -91,5 +91,5 @@ button{
 }
 
 .btn-update{
-    border-right: 1px solid var(--color-text-quote);
+    border-right: 1px solid var(--background-colo-secondary);
 }
